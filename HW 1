@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="styles.css">
+		<script src="http://patrickhill.nyc/hw1_helper.js" async></script>
+		<title>Christian's CS 146 HW 10/14</title>
+	</head>
+	<body>
+		<h1 id = "heading">CS 146 Resources</h1>
+		<div class = "content">
+			<h2>CA Office Hours</h2>
+			<table>
+				<thead>
+					<tr>
+						<th></th>
+						<th>Monday</th>
+						<th>Tuesday</th>
+						<th>Wednesday</th>
+						<th>Thursday</th>
+						<th>Friday</th>
+					</tr>
+				</thead>
+				<tr>
+					<td>1:00pm</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>2:00pm</td>
+					<td></td>
+					<td rowspan="3" class = "event" id = "david">David Kim</td>
+					<td></td>
+					<td rowspan="3" class = "event" id = "zach">Zach Zhwerling</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>3:00pm</td>
+					<td rowspan="3" class = "event" id = "rohan">Rohan Menon</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>4:00pm</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>5:00pm</td>
+					<td></td>
+					<td></td>
+					<td rowspan="3" class = "event" id = "katelyn">Katelyn Chen</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>6:00pm</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>7:00pm</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>8:00pm</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+			</table>
+		</div>
+		<div class = "content">
+			<h2>Useful Links</h2>
+			<ul>
+				<li><a href = "https://github.com/">Github</a></li>
+				<li><a href = " https://developer.mozilla.org/en-US/">MDN Web Docs</a></li>
+				<li><a href = " https://sit.instructure.com">Canvas</a></li>
+			</ul>
+		</div>
+		<div class = "content">
+			<h2>Cat (Or Dog) Pictures</h2>
+			<img src = "https://vetstreet-brightspot.s3.amazonaws.com/31/1ba400a28511e087a80050568d634f/file/Bengal-3-645mk062211.jpg">
+			<img src = "https://kittentoob.com/wp-content/uploads/2014/10/orange-cat.jpg">
+			<img src = "https://i1.wp.com/metro.co.uk/wp-content/uploads/2018/10/sei_37091096-2d31.jpg?quality=90&strip=all&zoom=1&resize=644%2C483&ssl=1">
+			<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTji70lxiHxBRT4JH795jnZxzXyWDjBQ52xhfc7P5uQB7q9tl6M5A">
+			<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLfDJvpLldI1p80VBLtAxz6pLs__yT6vhEEVIhOfejGN73Dzk1wg">
+		</div>
+	</body>
+</html>
